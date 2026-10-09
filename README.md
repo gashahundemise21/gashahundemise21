@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Gashahun Demise — Computer Vision Researcher and Machine Learning Engineer. From image data to practical AI." />
+  <img src="assets/header.svg" width="100%" alt="Gashahun Demise — Computer vision research and practical software engineering, Addis Ababa, Ethiopia." />
   <br /><br />
   <a href="https://gashahun-demise-portfolio.vercel.app/"><img src="assets/portfolio.svg" alt="Explore my portfolio" /></a>
   <a href="https://gashahun-demise-portfolio.vercel.app/resume/gashahun-demise-resume.pdf"><img src="assets/resume.svg" alt="Download my resume PDF" /></a>
@@ -7,89 +7,42 @@
   <a href="mailto:gashahundemise21@gmail.com"><img src="assets/email.svg" alt="Email Gashahun Demise" /></a>
 </div>
 
-## Research curiosity. Engineering discipline.
+## Hi, I’m Gashahun
 
-I'm **Gashahun Demise**, a **Computer Vision Researcher at the Ethiopian Artificial Intelligence Institute (EAII)**. I work on agricultural image understanding, annotation pipelines, and dataset quality, with a focus on careful evaluation and practical deployment.
+**Computer Vision Researcher at the Ethiopian Artificial Intelligence Institute (EAII)**, based in Addis Ababa, Ethiopia. I work on agricultural image understanding, dataset quality, and careful model evaluation. I also build Python APIs and web applications that make technical systems useful.
 
-My background is in **Electrical and Computer Engineering**. I also build APIs and web applications that connect technical systems with usable interfaces.
-
-| Background | |
-| :--- | :--- |
-| **Current role** | Computer Vision Researcher, EAII · July 2025–present |
-| **Education** | B.Sc. Electrical & Computer Engineering, Addis Ababa Science and Technology University · 2025 |
-| **Certification** | Deep Learning for Computer Vision, WorldQuant University |
-| **Based in** | Addis Ababa, Ethiopia |
-
-## What I focus on
-
-**Data before models** — class taxonomies, labeling guidelines, image annotation, label correction, and QA. My work includes YOLO, COCO, and Pascal VOC dataset formats.
-
-**Evaluation beyond one score** — transfer learning, classification and segmentation, per-class behavior, confusion matrices, and error analysis.
-
-**Research into usable systems** — TensorFlow Lite, resource-aware deployment, Python APIs, and clear frontend experiences.
+I hold a **B.Sc. in Electrical and Computer Engineering from Addis Ababa Science and Technology University (2025)** and a **Deep Learning for Computer Vision certification from WorldQuant University**.
 
 ## Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/gashahundemise21/saasforge">SaaSForge ↗</a></h3>
-<p>A multi-tenant B2B software foundation with organization context, authentication, API services, and database migrations.</p>
-<p><code>Python</code> <code>FastAPI</code> <code>Next.js</code> <code>PostgreSQL</code></p>
-<p><strong>Public implementation</strong> · <a href="https://gashahun-demise-portfolio.vercel.app/projects/saasforge">Engineering notes</a></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/gashahundemise21/task-board-app">TaskFlow ↗</a></h3>
-<p>A focused Kanban interface with task editing, search/filter controls, status changes, and component tests.</p>
-<p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Vitest</code></p>
-<p><strong>Public implementation</strong> · <a href="https://gashahun-demise-portfolio.vercel.app/projects/taskflow">Project notes</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://gashahun-demise-portfolio.vercel.app/projects/enset">AgriScan / Enset research ↗</a></h3>
-<p>Enset leaf disease classification, dataset preparation, model evaluation, and TensorFlow Lite optimization, as described in my resume.</p>
-<p><code>TensorFlow</code> <code>OpenCV</code> <code>TensorFlow Lite</code></p>
-<p><strong>Ongoing research</strong> · The <a href="https://github.com/gashahundemise21/Enset-Disease-Guard-EdgeAI">public repository</a> is currently a scaffold.</p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://gashahun-demise-portfolio.vercel.app/">Professional portfolio ↗</a></h3>
-<p>A responsive portfolio with source-backed project notes, a downloadable resume, accessibility features, SEO, and visitor analytics.</p>
-<p><code>Next.js</code> <code>TypeScript</code> <code>Vercel</code></p>
-<p><strong>Live deployment</strong> · <a href="https://github.com/gashahundemise21/gashahun-demise-portfolio">Source code</a></p>
-</td>
-</tr>
-</table>
+| Project | What I built / work on | Explore |
+| :--- | :--- | :--- |
+| **Hope Lounge QR Menu** | A multilingual menu and restaurant workspace developed with **Gosaye Woyo**. React, Vite, Django REST Framework. | [Live app](https://hopeloungemenu.com/) · [Project notes](https://gashahun-demise-portfolio.vercel.app/projects/hope-lounge) |
+| **Internship Hub** | A Django application for placements, student work reports, and supervisor feedback, built with **Gosaye Woyo**. | [Project notes](https://gashahun-demise-portfolio.vercel.app/projects/internship-hub) · [Original source](https://github.com/gashahun21/Internship-Management-System) |
+| **SaaSForge** | A multi-tenant B2B foundation with organization context, authentication, API services, and database migrations. FastAPI, Next.js, PostgreSQL. | [Source](https://github.com/gashahundemise21/saasforge) · [Engineering notes](https://gashahun-demise-portfolio.vercel.app/projects/saasforge) |
+| **TaskFlow** | A Kanban interface with task editing, search, status filters, and component tests. React, TypeScript, Vite, Vitest. | [Source](https://github.com/gashahundemise21/task-board-app) · [Project notes](https://gashahun-demise-portfolio.vercel.app/projects/taskflow) |
+| **Professional portfolio** | A simple, responsive portfolio with project case studies, accessibility features, and a downloadable resume. Next.js, TypeScript, Vercel. | [Website](https://gashahun-demise-portfolio.vercel.app/) · [Source](https://github.com/gashahundemise21/gashahun-demise-portfolio) |
+
+## Research & engineering interests
+
+- **Agricultural computer vision:** enset leaf disease classification, image preparation, and transfer learning.
+- **Reliable datasets:** labeling guidelines, annotation QA, label correction, and YOLO / COCO / Pascal VOC formats.
+- **Thoughtful evaluation:** per-class behavior, confusion matrices, and failure-case analysis.
+- **Practical deployment:** TensorFlow Lite, resource constraints, and usable application interfaces.
+
+[Explore my enset research direction](https://gashahun-demise-portfolio.vercel.app/projects/enset). The [public Enset Disease Guard repository](https://github.com/gashahundemise21/Enset-Disease-Guard-EdgeAI) is currently a scaffold; it does not contain a released model or reproducible benchmark.
 
 ## Technical toolkit
 
-### Machine learning & computer vision
+| Area | Technologies |
+| :--- | :--- |
+| **Computer vision & ML** | Python · TensorFlow · Keras · OpenCV · scikit-learn · TensorFlow Lite |
+| **Data** | NumPy · Pandas · SQL · PostgreSQL · MySQL |
+| **Software** | React · TypeScript · Next.js · Django · FastAPI · REST APIs · C/C++ |
+| **Engineering tools** | Git · Docker · Linux · CI/CD |
 
-![Python](assets/python.svg) ![TensorFlow](assets/tensorflow.svg) ![Keras](assets/keras.svg) ![OpenCV](assets/opencv.svg) ![scikit-learn](assets/scikit-learn.svg) ![NumPy](assets/numpy.svg) ![Pandas](assets/pandas.svg)
+## Let’s connect
 
-### Applications & data
+For computer vision research, machine learning engineering, and software collaborations:
 
-![TypeScript](assets/typescript.svg) ![React](assets/react.svg) ![Next.js](assets/nextjs.svg) ![FastAPI](assets/fastapi.svg) ![Django](assets/django.svg) ![PostgreSQL](assets/postgresql.svg)
-
-### Deployment & engineering tools
-
-![TensorFlow Lite](assets/tflite.svg) ![Docker](assets/docker.svg) ![Linux](assets/linux.svg) ![Git](assets/git.svg)
-
-Additional experience: **C/C++, SQL, REST APIs, and CI/CD**.
-
-## How I approach engineering
-
-- Establish the data quality and split strategy before interpreting model results.
-- Examine failure cases and per-class behavior alongside aggregate metrics.
-- Keep experiments understandable and software modular.
-- Consider latency, memory, and deployment constraints alongside model performance.
-
-## Let's build something useful
-
-I'm interested in **computer vision research, machine learning engineering, and practical software projects**. For collaborations or opportunities, explore my work and get in touch.
-
-**[Portfolio](https://gashahun-demise-portfolio.vercel.app/)** · **[Resume](https://gashahun-demise-portfolio.vercel.app/resume/gashahun-demise-resume.pdf)** · **[LinkedIn](https://www.linkedin.com/in/gashahun-demise/)** · **[gashahundemise21@gmail.com](mailto:gashahundemise21@gmail.com)**
-
----
-
-<sub>Research-minded. Engineering-focused. Built around real work.</sub>
+**[Portfolio](https://gashahun-demise-portfolio.vercel.app/)** · **[Resume](https://gashahun-demise-portfolio.vercel.app/resume/gashahun-demise-resume.pdf)** · **[LinkedIn](https://www.linkedin.com/in/gashahun-demise/)** · **[Email](mailto:gashahundemise21@gmail.com)**
