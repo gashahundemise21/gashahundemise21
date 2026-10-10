@@ -9,7 +9,7 @@
 
 ## Hi, I’m Gashahun
 
-**Computer Vision Researcher at the Ethiopian Artificial Intelligence Institute (EAII)**, based in Addis Ababa, Ethiopia. I work on agricultural image understanding, dataset quality, and careful model evaluation. I also build Python APIs and web applications that make technical systems useful.
+**Computer Vision Researcher at the Ethiopian Artificial Intelligence Institute (EAII)**, based in Addis Ababa, Ethiopia. I work on agricultural image disease detection and classification for the purpose early curations., dataset quality control, and careful model evaluation. I also build Python APIs and web applications that make technical systems useful.
 
 I hold a **B.Sc. in Electrical and Computer Engineering from Addis Ababa Science and Technology University (2025)** and a **Deep Learning for Computer Vision certification from WorldQuant University**.
 
