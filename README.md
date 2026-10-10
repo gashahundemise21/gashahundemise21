@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Gashahun Demise — Computer vision research and practical software engineering, Addis Ababa, Ethiopia." />
+  <img src="assets/header.svg" width="100%" alt="Gashahun Demise — Computer vision researcher and Full-stack developer, Addis Ababa, Ethiopia." />
   <br /><br />
   <a href="https://gashahun-demise-portfolio.vercel.app/"><img src="assets/portfolio.svg" alt="Explore my portfolio" /></a>
   <a href="https://gashahun-demise-portfolio.vercel.app/resume/gashahun-demise-resume.pdf"><img src="assets/resume.svg" alt="Download my resume PDF" /></a>
